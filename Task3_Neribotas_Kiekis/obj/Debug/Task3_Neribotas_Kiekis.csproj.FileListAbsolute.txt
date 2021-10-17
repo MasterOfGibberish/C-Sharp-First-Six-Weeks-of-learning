@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#\Task3_Neribotas_Kiekis\Task3_Neribotas_Kiekis\bin\Debug\Task3_Neribotas_Kiekis.exe.config
+C:\Users\user\Desktop\C#\Task3_Neribotas_Kiekis\Task3_Neribotas_Kiekis\bin\Debug\Task3_Neribotas_Kiekis.exe
+C:\Users\user\Desktop\C#\Task3_Neribotas_Kiekis\Task3_Neribotas_Kiekis\bin\Debug\Task3_Neribotas_Kiekis.pdb
+C:\Users\user\Desktop\C#\Task3_Neribotas_Kiekis\Task3_Neribotas_Kiekis\obj\Debug\Task3_Neribotas_Kiekis.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\Task3_Neribotas_Kiekis\Task3_Neribotas_Kiekis\obj\Debug\Task3_Neribotas_Kiekis.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Task3_Neribotas_Kiekis\Task3_Neribotas_Kiekis\obj\Debug\Task3_Neribotas_Kiekis.exe
+C:\Users\user\Desktop\C#\Task3_Neribotas_Kiekis\Task3_Neribotas_Kiekis\obj\Debug\Task3_Neribotas_Kiekis.pdb
