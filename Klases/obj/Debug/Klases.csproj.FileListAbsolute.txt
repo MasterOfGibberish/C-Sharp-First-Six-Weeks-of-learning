@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#\Totalusragas\Klases\bin\Debug\Klases.exe.config
+C:\Users\user\Desktop\C#\Totalusragas\Klases\bin\Debug\Klases.exe
+C:\Users\user\Desktop\C#\Totalusragas\Klases\bin\Debug\Klases.pdb
+C:\Users\user\Desktop\C#\Totalusragas\Klases\obj\Debug\Klases.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\Totalusragas\Klases\obj\Debug\Klases.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Totalusragas\Klases\obj\Debug\Klases.exe
+C:\Users\user\Desktop\C#\Totalusragas\Klases\obj\Debug\Klases.pdb

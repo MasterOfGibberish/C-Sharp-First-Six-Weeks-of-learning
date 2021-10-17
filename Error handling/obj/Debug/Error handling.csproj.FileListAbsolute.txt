@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#\Totalusragas\Error handling\bin\Debug\Error handling.exe.config
+C:\Users\user\Desktop\C#\Totalusragas\Error handling\bin\Debug\Error handling.exe
+C:\Users\user\Desktop\C#\Totalusragas\Error handling\bin\Debug\Error handling.pdb
+C:\Users\user\Desktop\C#\Totalusragas\Error handling\obj\Debug\Error handling.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\Totalusragas\Error handling\obj\Debug\Error handling.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Totalusragas\Error handling\obj\Debug\Error handling.exe
+C:\Users\user\Desktop\C#\Totalusragas\Error handling\obj\Debug\Error handling.pdb

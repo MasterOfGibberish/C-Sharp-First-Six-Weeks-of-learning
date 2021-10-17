@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#\Totalusragas\IF_Else_Switc\bin\Debug\IF_Else_Switc.exe.config
+C:\Users\user\Desktop\C#\Totalusragas\IF_Else_Switc\bin\Debug\IF_Else_Switc.exe
+C:\Users\user\Desktop\C#\Totalusragas\IF_Else_Switc\bin\Debug\IF_Else_Switc.pdb
+C:\Users\user\Desktop\C#\Totalusragas\IF_Else_Switc\obj\Debug\IF_Else_Switc.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\Totalusragas\IF_Else_Switc\obj\Debug\IF_Else_Switc.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Totalusragas\IF_Else_Switc\obj\Debug\IF_Else_Switc.exe
+C:\Users\user\Desktop\C#\Totalusragas\IF_Else_Switc\obj\Debug\IF_Else_Switc.pdb

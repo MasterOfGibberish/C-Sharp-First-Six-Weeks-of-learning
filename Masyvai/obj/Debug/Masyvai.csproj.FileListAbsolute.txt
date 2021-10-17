@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#\Totalusragas\Masyvai\bin\Debug\Masyvai.exe.config
+C:\Users\user\Desktop\C#\Totalusragas\Masyvai\bin\Debug\Masyvai.exe
+C:\Users\user\Desktop\C#\Totalusragas\Masyvai\bin\Debug\Masyvai.pdb
+C:\Users\user\Desktop\C#\Totalusragas\Masyvai\obj\Debug\Masyvai.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\Totalusragas\Masyvai\obj\Debug\Masyvai.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Totalusragas\Masyvai\obj\Debug\Masyvai.exe
+C:\Users\user\Desktop\C#\Totalusragas\Masyvai\obj\Debug\Masyvai.pdb
